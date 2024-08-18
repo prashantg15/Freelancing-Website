@@ -1,2 +1,1 @@
-# Freelancing-Website
-Freelancing Website
+# Freelancer-Website
